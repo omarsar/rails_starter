@@ -1,0 +1,8 @@
+Started GET "/" for 127.0.0.1 at 2016-06-03 20:40:19 +0800
+Processing by ApplicationController#hello as HTML
+DEPRECATION WARNING: `render :text` is deprecated because it does not actually render a `text/plain` response. Switch to `render plain: 'plain text'` to render as `text/plain`, `render html: '<strong>HTML</strong>'` to render as `text/html`, or `render body: 'raw'` to match the deprecated behavior and render with the default Content-Type, which is `text/plain`. (called from hello at /home/ellfae/Dropbox/to_deploy/quizzy/app/controllers/application_controller.rb:7)
+  Rendering text template
+  Rendered text template (0.1ms)
+Completed 200 OK in 55ms (Views: 15.7ms | ActiveRecord: 0.0ms)
+
+
